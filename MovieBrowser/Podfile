@@ -1,0 +1,5 @@
+
+target 'MovieBrowser-Demo' do
+ 
+	pod 'SDWebImage', '~> 4.0'
+end
